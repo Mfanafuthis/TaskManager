@@ -21,9 +21,7 @@ and password for each user that has permission to use the program
 * Stores the user's login information
 * You can register as many users as possible
 * Only admin can register new users
-* Assigns task to users and stores them
-* Update tasks when completed
-* Update tasks details like completion date, person assign to etc
+* Assigns task to users and stores the
 * View all the tasks stored in tasks.txt
 * View only tasks assigned to a specific user
 * View statics 
