@@ -29,26 +29,33 @@ and password for each user that has permission to use the program
 * View statics 
 ## SCREENSHOTS
 <br><br>
-<img src = "Screenshoots/Screenshot (44).png" width  = 400>
+<img src = "screenshoots/Capture.PNG" width  = 400>
+<img src = "screenshoots/Capture1.PNG" width  = 400>
+<img src = "screenshoots/Capture2.PNG" width  = 400>
+<img src = "screenshoots/Capture3.PNG" width  = 400>
+<img src = "screenshoots/Capture4.PNG" width  = 400>
+<img src = "screenshoots/Capture5.PNG" width  = 400>
 ## SETUP
-Download a program to a folder of your choice, use one of the following technologies to run the program.
+Download a program to a folder of your choice. Also download the text files on the same folder before you run the program. Use one of the following technologies to run the program.
 This program can executed using:
 * Python IDLE 
 * VS code
 * or any python compatible IDE
 ## USAGE
-1 Diploy program
-2 Choose calculator
-3 Provide necessary information
-4 When done choose exit to exit the program
+Once all the files have been downloaded on to the single folder follow the steps below to run you program
+1. Diploy/execute the program
+2. The program will ask you to enter username and password. Use **admin** as username and **adm1n** as password
+3. You will then have access to all the obtions and you can register new users
+4. Only admin can register new users 
 ## PROJECT STATUS
-* Completed
+* In progress
 ## ROOM FOR IMPROVEMENT
 * Error handling can be improved
+* Follow more OOP style of programing
 ## ACKNOWLEDGEMENTS
 This project was inspired by HyperionDev
-This project was based on Capstone Project 1 Level 1 Task 11
-Many thanks to Godknows Sibelo for reviewing code
+It was based on Capstone Project 2 Level 1 Task 19
+Many thanks to Njabulo Phiri for reviewing code
 ## CONTACTS
 Created by mfanafuthis@hotmail.com
 Cell no: 0735603009
