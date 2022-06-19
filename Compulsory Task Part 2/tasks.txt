@@ -1,8 +1,0 @@
-admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
-admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
-mfana, Read, Read all the books, 22 Apr 2022, 25 Aug 2022, No
-mfana, Clean, Clean the yard, 22 Apr 2022, 07 Dec 2022, No
-lolo, Driving, Drive to KZN to deliver milk for my grand mom, 22 Apr 2022, 25 Dec 2022, No
-mfana, Great People, Say hi to people, 22 Apr 2022, 29 Dec 2022, No
-mfana, Love, Love people, 23 Apr 2022, 23 Aug 2022, No
-myna, Fetch, Fetch water from the river, 19 Jun 2022, 08 Aug 2022, No
